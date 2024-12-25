@@ -1,0 +1,35 @@
+[
+  {
+    "role": "1st Line Support Technician",
+    "organisation": "Fourth",
+    "startDate": "March, 2023",
+    "endDate": "August, 2023",
+    "experiences": [
+      "setup, configuration, and basic troubleshooting ",
+      "tracked issues, escalating unresolved problems to higher support levels "
+    ],
+    "imageSrc": "history/Fourth_logo.png"
+  },
+  {
+    "role": "IT Volunteer",
+    "organisation": "AbilityNet",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Assisted community members with technology ",
+      "Resolved basic technical issues"
+    ],
+    "imageSrc": "history/AbilityNet.png"
+  },
+  {
+    "role": "AI Data Rater",
+    "organisation": "",
+    "startDate": "Sept, 2023",
+    "endDate": "Nov, 2024",
+    "experiences": [
+      "Conducted quality assessments on Data sets",
+      "Asses usefulness of product filters"
+    ],
+    "imageSrc": "history/welocalize.png"
+  }
+]
