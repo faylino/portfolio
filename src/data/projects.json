@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "News Application",
+    "imageSrc": "projects/news_app.png",
+    "description": "This project implements a search bar allowing users to seach and click on news globally ",
+    "skills": ["Javascript", "APIs", "CSS", "HTML "],
+    "demo": "https://fayes-news-search.netlify.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "title": "Weather Application",
+    "imageSrc": "projects/weather_app.png",
+    "description": "Check for any countries/city's current weather, wind speed and humidity ",
+    "skills": ["Javascript", "APIs", "CSS", "HTML "],
+    "demo": "https://fayes-weather-app.netlify.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "title": "Multiplayer Tic-tac-toe",
+    "imageSrc": "projects/coming_soon (8).png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["Javascript", "React", "CSS", "HTML", "Typescript "],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
