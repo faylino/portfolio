@@ -5,7 +5,7 @@
     "description": "This project implements a search bar allowing users to seach and click on news globally ",
     "skills": ["Javascript", "APIs", "CSS", "HTML "],
     "demo": "https://fayes-news-search.netlify.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/faylino/news_search"
   },
   {
     "title": "Weather Application",
@@ -13,13 +13,13 @@
     "description": "Check for any countries/city's current weather, wind speed and humidity ",
     "skills": ["Javascript", "APIs", "CSS", "HTML "],
     "demo": "https://fayes-weather-app.netlify.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/faylino/weather_app"
   },
   {
     "title": "Multiplayer Tic-tac-toe",
     "imageSrc": "projects/coming_soon (8).png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Javascript", "React", "CSS", "HTML", "Typescript "],
+    "skills": ["Javascript", "React", "CSS", "Typescript "],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
